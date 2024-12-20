@@ -1,0 +1,44 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="apbl.online" resolutions="1x" timestamp="1728111347749">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="253389588" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ridwan-abdurrohman-h3ev8bcoonw-unsplash.jpg" crc="381395755" seo="true" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="hafizh-maryansyah-sfijvz28arm-unsplash.jpg" crc="4279403731" seo="true" ref="phone>index:index"/>
+    <file name="dapiki-moto-ral3lzu3j0e-unsplash.jpg" crc="157249734" seo="true" ref="phone>index:index"/>
+    <file name="erik-setia-murdani-25st5gonufo-unsplash.jpg" crc="292850847" seo="true" ref="phone>index:index"/>
+    <file name="kartika-paramita-rix4ieupc_k-unsplash.jpg" crc="391471794" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="bolt-svgrepo-com.svg" crc="92709205" ref="phone>index:index"/>
+    <file name="bolt-svgrepo-com_poster_.png" crc="136208740" ref="phone>index"/>
+    <file name="untitled-1.png" crc="104407954" seo="true" ref="phone>index:index"/>
+    <file name="home-smile-angle-svgrepo-com.svg" crc="354508538" ref="phone>index:index"/>
+    <file name="home-smile-angle-svgrepo-com_poster_.png" crc="79769247" ref="phone>index"/>
+    <file name="untitled-2.png" crc="3940889294" seo="true" ref="phone>index:index"/>
+    <file name="untitled-3.png" crc="4169802142" seo="true" ref="index"/>
+    <file name="untitled-3-recovered.png" crc="447942198" seo="true" ref="phone>index"/>
+    <file name="phone.png" crc="254705977" seo="true" ref="phone>index"/>
+    <file name="awdad.png" crc="487316556" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="406695079" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3766578333" seo="true" mt="1728111333882" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3798931534" seo="true" mt="1728111072146" redirect="true"/>
+</manifest>
